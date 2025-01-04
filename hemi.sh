@@ -14,10 +14,10 @@ print_intro() {
   echo "║       Follow us for updates and support:                 ║"
   echo "║                                                          ║"
   echo "║     Twitter:                                             ║"
-  echo "║     https://twitter.com/cipher_airdrop                   ║"
+  echo "║     https://twitter.com/0xrevrb                          ║"
   echo "║                                                          ║"
   echo "║     Telegram:                                            ║"
-  echo "║     - https://t.me/+tFmYJSANTD81MzE1                     ║"
+  echo "║     - https://t.me/oxreverb                              ║"
   echo "╚════════════════════════════════════════════════════════════"
 }
 
