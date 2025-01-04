@@ -1,4 +1,8 @@
-First of all put proxies in `proxies.txt`
+First of all put proxies in `proxies.txt` using 
+```bash
+nano proxies.txt
+```
+
 After that use use `wallet_i.json` to put your private key, public key, public hash(tbtc address) etc... 
 create as much as you want like- 
 for 5 wallets create 5 files named like-- using 
