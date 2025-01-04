@@ -12,8 +12,10 @@ nano wallet_1.json
 
 `wallet_1.json , wallet_2.json, wallet_3.json` 
 etc 
-To get these you can check- https://testnet.popstats.hemi.network/
+To get these you can check- https://testnet.popstats.hemi.network
+
 search your address here 
+
 you'll get all your details like eth address, tbtc address, public key etc 
 
 intall these 
