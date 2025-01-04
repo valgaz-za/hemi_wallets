@@ -25,7 +25,7 @@ sudo apt-get install -y wget jq curl
 ```
 and 
 ```bash
-sudo apt-get install figlet jq
+sudo apt-get install figlet 
 ```
 make script executable using 
 ```bash
