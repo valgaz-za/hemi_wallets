@@ -1,5 +1,5 @@
 {
-  "ethereum_address": "your hemi testnet address here must be same private key of tbtc and evm",
+  "ethereum_address": "erc20_address",
   "network": "testnet",
   "private_key": "private key of wallet here",
   "public_key": "public key here",
